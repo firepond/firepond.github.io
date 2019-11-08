@@ -1,5 +1,7 @@
 # Markdown语法
 
+Write in Typora, by [firepond](firepond.github.io)
+
 ## [1.标题](#title)
 
 使用#来表示标题， #的数量表示标题级别
@@ -42,12 +44,6 @@
 ## [11. 锚点](#anchor-point)
 
 锚点是一个
-
-
-
----
-
-Write in Typora, by [firepond](firepond.github.io)
 
 
 
