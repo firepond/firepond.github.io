@@ -1,1 +1,1 @@
-go get golang.org/x/tools/cmd/vet
+## go get golang.org/x/tools/cmd/vet
