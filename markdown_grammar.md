@@ -148,6 +148,8 @@ _斜体_
 _斜体_
 
 
+
+
 两个 * 或 _ 表示加粗
 ```
 **加粗**
@@ -156,6 +158,8 @@ __加粗__
 
 **加粗**
 __加粗__
+
+
 
 
 ## [5. 代码](#code)
@@ -170,10 +174,12 @@ __加粗__
 
 效果：```System.out.println("Hello, world!");```
 
+
+
 代码块：
 
 ```
-​```
+​```java
 代码块
 public class HelloWorld {
     public static void main(String[] args) {
@@ -185,7 +191,7 @@ public class HelloWorld {
 
 效果：
 
-```
+```java
 代码块
 public class HelloWorld {
     public static void main(String[] args) {
@@ -194,9 +200,13 @@ public class HelloWorld {
 }
 ```
 
+
+
 ## [6. 链接](#link)
 
 
+```[firepond](firepond.gihub.io "my home page")```
+[firepond](firepond.gihub.io "my home page")
 
 
 
@@ -222,6 +232,13 @@ _________________
 
 ## [8.图片](#picture)
 
+```
+![Jil](Jil.jpg "The famous bartender from va11-hall-a")
+```
+![Jil](Jil.jpg "The famous bartender from va11-hall-a")
+
+
+
 
 
 
@@ -230,15 +247,71 @@ _________________
 
 
 
+```
+First Header | Second Header | Third Header
+------------ | ------------- | ------------
+Content Cell | Content Cell  | Content Cell
+Content Cell | Content Cell  | Content Cell
+```
+
+First Header | Second Header | Third Header
+------------ | ------------- | ------------
+Content Cell | Content Cell  | Content Cell
+Content Cell | Content Cell  | Content Cell
+
+
+
+```
+First Header | Second Header | Third Header
+:----------- | :-----------: | -----------:
+Left         | Center        | Right
+Left         | Center        | Right
+```
+
+First Header | Second Header | Third Header
+:----------- | :-----------: | -----------:
+Left         | Center        | Right
+Left         | Center        | Right
+
 
 
 ## [10. 公式](#math-expression)
+
+```
+$$
+E=mc^2
+$$
+```
+
+
+
+
+
+$$
+E=mc^2
+$$
 
 
 
 
 
 ## [11. 流程图](#diagram)
+
+
+```
+​```flow
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+​```
+```
+
+
 
 ```flow
 st=>start: Start
