@@ -180,7 +180,7 @@ __加粗__
 
 ```
 ​```java
-代码块
+//代码块
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
@@ -192,7 +192,7 @@ public class HelloWorld {
 效果：
 
 ```java
-代码块
+//代码块
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
@@ -204,9 +204,7 @@ public class HelloWorld {
 
 ## [6. 链接](#link)
 
-
-```[firepond](firepond.gihub.io "my home page")```
-[firepond](firepond.gihub.io "my home page")
+```[firepond](https://firepond.github.io/ "my home page")```    [firepond](https://firepond.github.io/ "my home page")
 
 
 
