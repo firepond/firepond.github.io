@@ -1,1 +1,4 @@
-## go get golang.org/x/tools/cmd/vet
+## Note site of firepond
+
+About Markdown grammar: [Markdown grammar](firepond.girhub.io/grammar "Markdown grammar")
+
