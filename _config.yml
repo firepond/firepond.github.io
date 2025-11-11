@@ -6,7 +6,7 @@ baseurl: ""
 author: Ruitao Xue
 github_username: firepond
 header_pages:
-	- info.md
+  - info.md
 plugins:
-	- jekyll-seo-tag
-	- jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-feed
