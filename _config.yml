@@ -1,1 +1,12 @@
+title: Ruitao Xue
+description: Academic personal website of Ruitao Xue, PhD student at Newcastle University.
 theme: jekyll-theme-cayman
+url: https://firepond.github.io
+baseurl: ""
+author: Ruitao Xue
+github_username: firepond
+header_pages:
+	- info.md
+plugins:
+	- jekyll-seo-tag
+	- jekyll-feed
