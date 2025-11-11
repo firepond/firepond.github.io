@@ -4,8 +4,6 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-# Ruitao Xue
-
 PhD student in the School of Computing at Newcastle University, United Kingdom. My research explores intelligent and secure IoT systems through TinyML, adaptive anomaly detection, and lifelong learning.
 
 ## Education

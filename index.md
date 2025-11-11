@@ -5,13 +5,11 @@ title: Ruitao Xue
 
 # Ruitao Xue
 
-_PhD Student | School of Computing | Newcastle University_
+*PhD Student | School of Computing | Newcastle University*
+
+R.Xue5 [at] newcastle.ac.uk
 
 I build resource-efficient and secure intelligence for the Internet of Things. My research connects streaming anomaly detection, TinyML, and lifelong learning so embedded devices can adapt on the edge without sacrificing reliability.
-
-<div class="section-nav">
-<a href="#research-focus">Research</a> | <a href="#education">Education</a> | <a href="#publications">Publications</a> | <a href="#selected-skills">Skills</a> | <a href="#languages">Languages</a>
-</div>
 
 ## Research Focus
 
@@ -30,12 +28,10 @@ Focus on IoT intelligence, TinyML, anomaly detection, and agent-driven automatio
 **University of Glasgow, United Kingdom**  
 MSc in Computer Systems Engineering, Sept 2022 - Oct 2023  
 - Graduated with Distinction; GPA 17.8/22  
-- Coursework: Software Engineering, Cyber Security Fundamentals, Big Data, Data Science and Systems, Secure Software Engineering, Digital Signal Processing, VLSI Design
 
 **Beihang University (BUAA), Beijing, China**  
 Bachelor of Engineering in Information Security, Sept 2017 - Sept 2021  
 - Graduated with Honors from ShenYuan Honors College  
-- Coursework: Cryptography, Principles of Database Systems, Information Security Engineering, Computer Network Attack and Defense Technology, Information Network Security, Blockchain Principle and Technology, Security Protocol, Natural Language Processing, Blockchain Engineering Experiment, Parallel Programming, Mobile Development
 
 ## Publications
 
