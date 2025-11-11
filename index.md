@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Ruitao Xue
+title: Ruitao Xue Biography
 ---
 
-# Ruitao Xue
-
-*PhD Student | School of Computing | Newcastle University*
+*PhD Student at  School of Computing  Newcastle University*
 
 R.Xue5 [at] newcastle.ac.uk
+
+github: https://github.com/firepond
 
 I build resource-efficient and secure intelligence for the Internet of Things. My research connects streaming anomaly detection, TinyML, and lifelong learning so embedded devices can adapt on the edge without sacrificing reliability.
 
