@@ -1,13 +1,13 @@
 title: Ruitao Xue
-description: Academic personal website of Ruitao Xue.
-remote_theme: pages-themes/cayman@v0.2.0
+description: PhD student in Computing at Newcastle University researching IoT intelligence, TinyML, and streaming anomaly detection.
 url: https://firepond.github.io
 baseurl: ""
 author: Ruitao Xue
 github_username: firepond
+email: r.xue5@newcastle.ac.uk
 header_pages:
   - index.md
+  - info.md
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-remote-theme

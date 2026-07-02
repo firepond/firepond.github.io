@@ -1,10 +1,14 @@
 ---
 layout: default
 title: Curriculum Vitae
+description: Curriculum vitae for Ruitao Xue, PhD student in Computing at Newcastle University.
 permalink: /cv/
 ---
 
 PhD student in the School of Computing at Newcastle University, United Kingdom. My research explores intelligent and secure IoT systems through TinyML, adaptive anomaly detection, and lifelong learning.
+
+- Contact: R.Xue5 [at] newcastle.ac.uk
+- GitHub: [github.com/firepond](https://github.com/firepond)
 
 ## Education
 
