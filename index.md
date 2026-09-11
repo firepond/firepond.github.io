@@ -19,8 +19,7 @@ body_class: home
   </div>
 
   <figure class="hero-visual">
-    <img src="{{ '/assets/img/iot-edge-lab-hero.png' | relative_url }}" alt="IoT edge computing research setup with embedded devices and signal analysis on a laptop screen">
-    <figcaption>Edge devices, sensors, and streaming signals are the practical setting for my research.</figcaption>
+    <img src="{{ '/assets/img/ruitao.png' | relative_url }}" alt="Ruitao's photo">
   </figure>
 </section>
 
