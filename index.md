@@ -8,7 +8,7 @@ body_class: home
 <section class="hero" aria-labelledby="intro-title">
   <div class="hero-copy">
     <p class="eyebrow">PhD Student | School of Computing | Newcastle University</p>
-    <h1 id="intro-title">Ruitao Xue</h1>
+    <h2 id="intro-title">Ruitao Xue</h2>
     <p class="lede">I build resource-efficient and secure intelligence for the Internet of Things. My research connects streaming anomaly detection, TinyML, and lifelong learning so embedded devices can adapt at the edge without sacrificing reliability.</p>
 
     <div class="hero-actions" aria-label="Contact and profile links">
